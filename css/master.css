@@ -1,0 +1,73 @@
+html { 
+  background: url(../images/Everest.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  front-family:"Helvetica Neue",sans-serif;
+}
+
+.prof-box {
+	width: 400px;
+	height:415px;
+	background: rgba(0,0,0,0.4);
+	padding:40px;
+	color:white;
+	margin:0 auto;
+	margin-top:100px;
+	text-align: center;
+}
+.prof-pic{
+	border-radius:10px;
+	position: relative;
+    top: -16px;
+    right: -150px;
+	height:100px;
+	width:100px;
+}
+
+
+h1{
+	font-family: Papyrus, fantasy;
+	font-size: 30px;
+	 letter-spacing: 6;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+h5{
+	font-weight: 100;
+    letter-spacing: 1;
+    font-size: 15px;
+    color:#F0E68C;
+}
+
+
+p{
+	font-family: "Brush Script MT", cursive;
+	font-size: 25px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+.social-icon{
+	font-size: 40px;
+}
+
+.social-icon a {
+	color: #3b5998;
+	 padding: 50px 30px 50px 40px;
+}
+
+.social-icon b {
+	color:#00aced;
+	 padding: 50px 30px 50px 40px;
+}
+
+ .social-icon c {
+	color:#bc2a8d;
+	 padding: 50px 30px 50px 40px;
+}
